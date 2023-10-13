@@ -1,4 +1,5 @@
-# API Services using Spring Boot
+# Day 2
+## API Services using Spring Boot
 Langkah-langkah:
 * Membuat project pada Spring Initializr
 * Extract project yang telah didownload dan buka pada Java IDE
