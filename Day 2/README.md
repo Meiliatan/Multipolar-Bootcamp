@@ -1,4 +1,4 @@
-# Day 2
+# Day 2 - Overview
 ## API Services using Spring Boot
 Langkah-langkah:
 * Membuat project pada Spring Initializr
